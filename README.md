@@ -21,3 +21,7 @@
 5- Select the folder where you cloned or unzipped this repository.
 
 The extension will now be loaded and ready to use.
+
+<picture>
+  <img src="https://github.com/husseinphp/Captured-Login-Data/blob/main/Screenshot_1.jpg">
+</picture>
